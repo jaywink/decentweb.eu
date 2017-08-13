@@ -2,6 +2,10 @@
 A overview of projects and protocols on the decentralized web.
 
 
+# Next steps
+* Write "who talks to who", detailing the protocols
+* Draw a fancy graph overview of which projects use which protocols to talk to each other
+
 # Working plan
 This section is my notes on what I want this website to contain, and how to structue it. There will be unfinished text, cryptic notes and similar in the following. Comment in issues or contact me through my Mastodon account, if you want to comment or contribute: [@zatnosk@manowar.social](https://manowar.social/@zatnosk)
 
