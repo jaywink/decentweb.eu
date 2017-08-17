@@ -27,6 +27,7 @@ A text on differences in the described protocols, what are their aims, what are 
 Should I include Zot and other (afaik) single project protocols?
 
 [Someone posted a table about this on mastodon](https://manowar.social/users/zatnosk/updates/2097)
+[Apparently the table was made by Mike Macgirvin](https://macgirvin.com/channel/mike/&f=&mid=a167ea295beeca0389a34a97c94c987765375a31fc49a090d8602278dbc319fc@macgirvin.com)
 
 ## "what project"
 A page detailing each project, pros and cons.
